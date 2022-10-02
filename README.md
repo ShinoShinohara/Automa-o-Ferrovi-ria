@@ -1,4 +1,4 @@
-# Automa-o-Ferrovi-ria
+# Automação-Ferroviaria
 Trabalho de SO - Tema n° 5
 
 5) Automação Ferroviária
